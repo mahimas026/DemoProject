@@ -17,6 +17,8 @@ function App() {
       <p className="text-gray-500 text-lg text-center">Learn React step by step</p>
       <button className="bg-blue-500 text-white px-5 py-2 rounded-md m-1 cursor-pointer">
        Submit</button>
+       <button className="bg-blue-500 text-white px-5 py-2 rounded-md m-1 cursor-pointer">
+       Submit</button>
     </>
   )
 }
